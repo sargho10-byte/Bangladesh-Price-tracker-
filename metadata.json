@@ -1,0 +1,6 @@
+{
+  "name": "BD Price Tracker",
+  "description": "Track product prices, comparison history, and store availability across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
